@@ -1,0 +1,6 @@
+torch
+torchvision
+pillow
+opencv-python
+PyQt5
+requests
