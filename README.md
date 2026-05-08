@@ -48,6 +48,14 @@ Main components:
   - Runs classification
   - Draws predicted class and probability directly on the image using OpenCV + QPainter
 
+ ---
+ 
+### Example output
+
+<div align="center"> <img src="Inference/backpack.png" alt="Backpack" width="600"/> <p><b>Figure 1:</b> App Output on backpack image</p> </div>
+
+<div align="center"> <img src="Inference/mouse.png" alt="Mouse" width="600"/> <p><b>Figure 2:</b> App Output on computer mouse image</p> </div>
+
 ---
 
 ### External Dependencies
@@ -58,4 +66,8 @@ Main components:
 - **Pillow (PIL)**: Image loading and conversion
 - **Requests + JSON**: Fetch ImageNet class labels
 
-
+---
+**Course:** Multimedia    
+**University:** Amirkabir University of Technology    
+**Semester:** Spring 2024    
+**Author:** Hadi Salavati
